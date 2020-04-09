@@ -1,0 +1,67 @@
+#hea
+{
+	font-size:40px;
+	text-align:center;
+	position:relative;
+	top:50px;
+	left:100px;
+	width:80%;
+	
+}
+.frst
+{
+	background-color:#6495ED;
+	height:80vh;	
+}
+.third
+{
+	display:flex;
+	position:relative;
+	top:70px;
+	left:250px;
+	
+}
+.third > div
+{
+	margin:30px;
+}
+#bir
+{
+	font-size:40px;
+	margin-left:10px;
+	
+}
+.four
+{
+	background-color:#00BFFF;
+	height:30vh;
+}
+input
+{
+	border: 2px solid #ccc;
+  	border-radius:15px;
+	padding:15px 25px;
+	background-color:lightgreen;
+	
+}
+.five
+{
+	padding:7px 7px;
+	background-color:blue;
+}
+#colo
+{
+	font-size:40px;
+	margin-left:10px;
+}
+#btn
+{
+	margin-left:15px;
+	padding:13px 15px;
+	background-color:#F0E68C;
+}
+#random
+{
+	height:40vh;
+	background-color:lightgreen;
+}
